@@ -14,10 +14,17 @@
 ---
 
 
+<p align="center">
+ 	<a href="https://github.com/g1f1">
+  	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=g1f1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> 	
+ 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1f1&layout=compact&langs_count=7&theme=gruvbox"/> 
+</p>
+
 <p>
   <img width="250" align='left' src="readme.assets/contributions.gif?raw=true">
 </p>
 <p>
+	
 <h3>
 	<b> Interests </b>
 </h3>
